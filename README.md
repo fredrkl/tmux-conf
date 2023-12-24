@@ -9,3 +9,10 @@ Clone this repo and create a symlink to the configuration:
 ```
 ln -s tmux-repo-path/.tmux.conf real-tmux-path/.tmux.conf
 ```
+
+Run the following:
+```
+git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm 
+```
+
+When you start tmux, press ```prefix + I``` to install all the plugins.
