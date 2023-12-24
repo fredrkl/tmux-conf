@@ -11,6 +11,7 @@ ln -s tmux-repo-path/.tmux.conf real-tmux-path/.tmux.conf
 ```
 
 Run the following:
+
 ```
 git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm 
 ```
