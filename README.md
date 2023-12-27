@@ -4,6 +4,8 @@ Tmux, short for "terminal multiplexer", is a powerful command-line tool used pri
 
 ## Setup
 
+This repo is highly inspired by the `joseam-dev` [repo](https://github.com/josean-dev/dev-environment-files/blob/main/.tmux.conf).
+
 Clone this repo and create a symlink to the configuration:
 
 ```
