@@ -1,3 +1,5 @@
+>! This repo have been moved to the [dotfiles](https://github.com/fredrkl/dotfiles) repository.
+
 # My Tmux configuration
 
 Tmux, short for "terminal multiplexer", is a powerful command-line tool used primarily on Unix-like operating systems. This repository shows my tmux configuration.
